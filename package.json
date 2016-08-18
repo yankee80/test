@@ -1,6 +1,6 @@
 {
   "name": "TestApp",
-  "version": "5.5.0",
+  "version": "6.0.1-SNAPSHOT",
   "author": "MJ",
   "description": "MJ",
   "main": "src/app/app.module.js",
